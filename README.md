@@ -8,7 +8,8 @@ There are a lot of published papers with a lot of data and mining data can make 
 * [Pan-cancer single cell RNA-seq uncovers recurring programs of cellular heterogeneity](https://www.biorxiv.org/content/10.1101/807552v1.full)
 * [Next-generation characterization of the Cancer Cell Line Encyclopedia](https://www.nature.com/articles/s41586-019-1186-3)
 Broad has [DepMap](https://depmap.org/portal/)
-https://depmap.org/portal/ccle/
+
+[depmap bioc package](http://bioconductor.org/packages/release/data/experiment/html/depmap.html)
 
 ### TCGA
 
