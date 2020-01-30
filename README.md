@@ -10,6 +10,10 @@ There are a lot of published papers with a lot of data and mining data can make 
 Broad has [DepMap](https://depmap.org/portal/)
 https://depmap.org/portal/ccle/
 
+### TCGA
+
+* [The chromatin accessibility landscape of primary human cancers](https://science.sciencemag.org/content/362/6413/eaav1898)
+
 ### immune 
 * [The cis-Regulatory Atlas of the Mouse Immune System](https://www.cell.com/cell/fulltext/S0092-8674(18)31650-7)
 
