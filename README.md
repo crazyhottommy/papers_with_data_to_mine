@@ -32,3 +32,8 @@ Broad has [DepMap](https://depmap.org/portal/)
 ### epigenome annotation
 
 * [Integrative analysis of 10,000 epigenomic maps across 800 samples for regulatory genomics and disease dissection](https://www.biorxiv.org/content/10.1101/810291v2) by Manolis Kellis group: To help elucidate genetic variants underlying complex traits, we develop EpiMap, a compendium of 833 reference epigenomes across 18 uniformly-processed and computationally-completed assays. We define chromatin states, high-resolution enhancers, activity patterns, enhancer modules, upstream regulators, and downstream target gene functions.
+
+
+### single cell
+
+* [Single-Cell Transcriptome Atlas of Murine Endothelial Cells](https://www.cell.com/cell/pdf/S0092-8674(20)30062-3.pdf)
