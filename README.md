@@ -25,6 +25,8 @@ Broad has [DepMap](https://depmap.org/portal/)
 
 ### chromatin accessibility
 
+* [High-resolution genetic mapping of putative causal interactions between regions of open chromatin](https://www.nature.com/articles/s41588-018-0278-6)
+
 * [Global reference mapping and dynamics of human transcription factor footprints](https://www.biorxiv.org/content/10.1101/2020.01.31.927798v1) We map the fine-scale structure of ~1.6 million DHS
 
 * [Index and biological spectrum of accessible DNA elements in the human genome](https://www.biorxiv.org/content/10.1101/822510v2) Download the data from https://www.meuleman.org/project/dhsindex/ Wouter Meuleman is the author of epilogos.
