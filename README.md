@@ -48,3 +48,4 @@ Broad has [DepMap](https://depmap.org/portal/)
 
 * [Construction of a human cell landscape at single-cell level](https://www.nature.com/articles/s41586-020-2157-4) database url http://bis.zju.edu.cn/HCL/
 * [A human cell atlas of fetal chromatin accessibility](https://science.sciencemag.org/content/370/6518/eaba7612)
+* [A comprehensive library of human transcription factors for cell fate engineering](https://www.nature.com/articles/s41587-020-0742-6)
