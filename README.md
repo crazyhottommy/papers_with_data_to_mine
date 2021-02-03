@@ -9,6 +9,7 @@ There are a lot of published papers with a lot of data and mining data can make 
 * [Next-generation characterization of the Cancer Cell Line Encyclopedia](https://www.nature.com/articles/s41586-019-1186-3)
 Broad has [DepMap](https://depmap.org/portal/)
 * [Pan-cancer single-cell RNA-seq identifies recurring programs of cellular heterogeneity](https://www.nature.com/articles/s41588-020-00726-6) scRNAseq for CCLE lines!
+* [A metastasis map of human cancer cell lines](https://pubmed.ncbi.nlm.nih.gov/33299191/)
 
 [depmap bioc package](http://bioconductor.org/packages/release/data/experiment/html/depmap.html)
 
