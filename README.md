@@ -39,6 +39,9 @@ Broad has [DepMap](https://depmap.org/portal/)
 
 * [Boix et. al bioRxiv (2019) - Integrative analysis of 10,000 epigenomic maps across 800 samples for regulatory genomics and disease dissection](https://www.biorxiv.org/content/10.1101/810291v2) http://compbio.mit.edu/epimap/
 
+### structural variations
+
+* [Haplotype-resolved diverse human genomes and integrated analysis of structural variation](https://science.sciencemag.org/content/early/2021/02/24/science.abf7117)
 
 ### single cell
 
