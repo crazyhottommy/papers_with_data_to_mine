@@ -19,6 +19,10 @@ Broad has [DepMap](https://depmap.org/portal/)
 * [Disruption of chromatin folding domains by somatic genomic rearrangements in human cancer](https://www.nature.com/articles/s41588-019-0564-y)
 * [Pan-cancer analysis of whole genomes](https://www.nature.com/articles/s41586-020-1969-6)
 
+### PDX
+
+* [Comprehensive characterization of 536 patient-derived xenograft models prioritizes candidatesfor targeted treatment](https://www.nature.com/articles/s41467-021-25177-3#data-availability) https://portal.pdxnetwork.org/
+
 ### immune 
 * [The cis-Regulatory Atlas of the Mouse Immune System](https://www.cell.com/cell/fulltext/S0092-8674(18)31650-7)
 
