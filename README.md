@@ -62,3 +62,4 @@ Broad has [DepMap](https://depmap.org/portal/)
 * [A single–cell type transcriptomics map of human tissues](https://www.science.org/doi/10.1126/sciadv.abh2169#.YTis17ZVXh8.twitter)
 * [Signatures of plasticity, metastasis, and immunosuppression in an atlas of human small cell lung cancer](https://www.cell.com/cancer-cell/fulltext/S1535-6108(21)00497-9)
 * [Integrated single-cell transcriptomics and epigenomics reveals strong germinal center–associated etiology of autoimmune risk loci](https://www.science.org/doi/10.1126/sciimmunol.abh3768)
+* [A single-cell atlas of chromatin accessibility in the human genome](https://www.cell.com/cell/fulltext/S0092-8674(21)01279-4) from Bing Ren group.
