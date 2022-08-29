@@ -21,7 +21,9 @@ Broad has [DepMap](https://depmap.org/portal/)
 
 ### UKbiobank
 
-* [200,000 whole genomes made available for biomedical studies by U.K. effort](https://www.science.org/content/article/200-000-whole-genomes-made-available-biomedical-studies-uk-effort)
+* [200,000 whole genomes made available for biomedical studies by U.K. effort](https://www.science.org/content/article/200-000-whole-genomes-made-available-biomedical-studies-uk-effort) We present mutational signature analyses of 12,222 whole-genome–sequenced cancers collected prospectively via the UK National Health Service (NHS) for the 100,000 Genomes Project
+
+* [Substitution mutational signatures in whole-genome–sequenced cancers in the UK population](https://www.science.org/doi/10.1126/science.abl9283)
 
 ### PDX
 
