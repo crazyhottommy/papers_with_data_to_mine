@@ -2,6 +2,10 @@
 
 There are a lot of published papers with a lot of data and mining data can make new discoveries.
 
+### review 
+
+[Big data in basic and translational cancer research](https://www.nature.com/articles/s41568-022-00502-0)
+
 ### CCLE 
 
 * [Quantitative Proteomics of the Cancer Cell Line Encyclopedia](https://www.cell.com/cell/fulltext/S0092-8674(19)31385-6)
