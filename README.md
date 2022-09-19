@@ -9,7 +9,9 @@ There are a lot of published papers with a lot of data and mining data can make 
 
 ### proteomics
 
-* [CPTAC python package](https://github.com/PayneLab/cptac) The National Cancer Institute’s Clinical Proteomic Tumor Analysis Consortium (CPTAC) is a national effort to accelerate the understanding of the molecular basis of cancer through the application of large-scale proteome and genome analysis, or proteogenomics. CPTAC generates comprehensive proteomics and genomics data from clinical cohorts, typically with ~100 samples per tumor type. The graphic below summarizes the structure of each CPTAC dataset
+* [CPTAC python package](https://github.com/PayneLab/cptac) The National Cancer Institute’s Clinical Proteomic Tumor Analysis Consortium (CPTAC) is a national effort to accelerate the understanding of the molecular basis of cancer through the application of large-scale proteome and genome analysis, or proteogenomics. CPTAC generates comprehensive proteomics and genomics data from clinical cohorts, typically with ~100 samples per tumor type. The graphic below summarizes the structure of each CPTAC dataset.
+* [Pan-cancer proteomic map of 949 human cell lines](https://www.sciencedirect.com/science/article/pii/S1535610822002744) download https://cellmodelpassports.sanger.ac.uk/
+* [Quantitative Proteomics of the Cancer Cell Line Encyclopedia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7339254/)
 
 ### CCLE 
 
