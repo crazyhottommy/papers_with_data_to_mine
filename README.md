@@ -6,6 +6,9 @@ There are a lot of published papers with a lot of data and mining data can make 
 
 [Big data in basic and translational cancer research](https://www.nature.com/articles/s41568-022-00502-0)
 
+### 
+
+* [Integrating and formatting biomedical data as pre-calculated knowledge graph embeddings in the Bioteque](https://www.nature.com/articles/s41467-022-33026-0) Here we present the Bioteque, a resource of unprecedented size and scope that contains pre-calculated biomedical descriptors derived from a gigantic knowledge graph, displaying more than 450 thousand biological entities and 30 million relationships between them. The Bioteque integrates, harmonizes, and formats data collected from over 150 data sources, including 12 biological entities (e.g., genes, diseases, drugs) linked by 67 types of associations (e.g., ‘drug treats disease’, ‘gene interacts with gene’)
 
 ### proteomics
 
