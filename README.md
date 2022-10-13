@@ -26,6 +26,8 @@ Broad has [DepMap](https://depmap.org/portal/)
 * [A metastasis map of human cancer cell lines](https://pubmed.ncbi.nlm.nih.gov/33299191/)
 
 [depmap bioc package](http://bioconductor.org/packages/release/data/experiment/html/depmap.html)
+https://depmap.org/portal/download/custom/
+https://depmap.org/portal/interactive/
 
 ### TCGA & ICGC
 
