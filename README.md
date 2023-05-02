@@ -38,6 +38,7 @@ https://depmap.org/portal/interactive/
 * [The chromatin accessibility landscape of primary human cancers](https://science.sciencemag.org/content/362/6413/eaav1898)
 * [Disruption of chromatin folding domains by somatic genomic rearrangements in human cancer](https://www.nature.com/articles/s41588-019-0564-y)
 * [Pan-cancer analysis of whole genomes](https://www.nature.com/articles/s41586-020-1969-6)
+* [Removing unwanted variation from large-scale RNA sequencing data with PRPS](https://www.nature.com/articles/s41587-022-01440-w) normalize TCGA data 
 
 ### UCSC 
 
