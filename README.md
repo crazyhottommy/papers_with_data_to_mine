@@ -98,4 +98,12 @@ UCSC xena https://xena.ucsc.edu/
   
 ### image data
 
-cellpainting gallary from Broad https://registry.opendata.aws/cellpainting-gallery/
+* cellpainting gallary from Broad https://registry.opendata.aws/cellpainting-gallery/
+
+* Bioimagingguide.org, a companion website to paper [“A biologist’s guide to planning and performing quantitative bioimaging experiments”](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002167)
+  
+* Tutorials.cellprofiler.org – a list of written tutorials, many with accompanying videos
+
+* [Data-analysis strategies for image-based cell profiling](https://www.nature.com/articles/nmeth.4397) – the gold-standard methods paper for performing image-based profiling
+
+* [Interpreting Image-based Profiles using Similarity Clustering and Single-Cell Visualization](https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpz1.713) – a protocol paper on how to interpret image-based profiling experiments once you’ve performed them
