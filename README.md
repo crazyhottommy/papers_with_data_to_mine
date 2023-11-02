@@ -39,6 +39,8 @@ https://depmap.org/portal/interactive/
 * [Disruption of chromatin folding domains by somatic genomic rearrangements in human cancer](https://www.nature.com/articles/s41588-019-0564-y)
 * [Pan-cancer analysis of whole genomes](https://www.nature.com/articles/s41586-020-1969-6)
 * [Removing unwanted variation from large-scale RNA sequencing data with PRPS](https://www.nature.com/articles/s41587-022-01440-w) normalize TCGA data 
+* [Evolutionary signatures of human cancers revealed via genomic analysis of over 35,000 patients](https://www.nature.com/articles/s41467-023-41670-3)
+* [A pan-tissue survey of mosaic chromosomal alterations in 948 individuals](https://www.nature.com/articles/s41588-023-01537-1)
 
 ### UCSC 
 
