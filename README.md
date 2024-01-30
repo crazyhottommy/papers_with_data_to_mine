@@ -42,6 +42,10 @@ https://depmap.org/portal/interactive/
 * [Evolutionary signatures of human cancers revealed via genomic analysis of over 35,000 patients](https://www.nature.com/articles/s41467-023-41670-3)
 * [A pan-tissue survey of mosaic chromosomal alterations in 948 individuals](https://www.nature.com/articles/s41588-023-01537-1)
 
+### cancer genomcis
+
+* [Insights for precision oncology from the integration of genomic and clinical data of 13,880 tumors from the 100,000 Genomes Cancer Programme](https://www.nature.com/articles/s41591-023-02682-0)
+  
 ### UCSC 
 
 UCSC xena https://xena.ucsc.edu/
