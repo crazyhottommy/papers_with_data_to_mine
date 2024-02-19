@@ -105,7 +105,8 @@ UCSC xena https://xena.ucsc.edu/
 
 ### ADC
 
-[The target atlas for antibody-drug conjugates across solid cancers](https://www.nature.com/articles/s41417-023-00701-3)
+* [The target atlas for antibody-drug conjugates across solid cancers](https://www.nature.com/articles/s41417-023-00701-3)
+* https://www.ejcancer.com/article/S0959-8049(23)00681-0/fulltext
 
 ### image data
 
