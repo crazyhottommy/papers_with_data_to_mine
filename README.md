@@ -56,6 +56,7 @@ UCSC xena https://xena.ucsc.edu/
 * [200,000 whole genomes made available for biomedical studies by U.K. effort](https://www.science.org/content/article/200-000-whole-genomes-made-available-biomedical-studies-uk-effort) We present mutational signature analyses of 12,222 whole-genome–sequenced cancers collected prospectively via the UK National Health Service (NHS) for the 100,000 Genomes Project
 
 * [Substitution mutational signatures in whole-genome–sequenced cancers in the UK population](https://www.science.org/doi/10.1126/science.abl9283)
+* [Genomic data in the All of Us Research Program](https://www.nature.com/articles/s41586-023-06957-x) Here we describe the programme’s genomics data release of 245,388 clinical-grade genome sequences. 
 
 ### PDX
 
@@ -107,6 +108,12 @@ UCSC xena https://xena.ucsc.edu/
 
 * [The target atlas for antibody-drug conjugates across solid cancers](https://www.nature.com/articles/s41417-023-00701-3)
 * https://www.ejcancer.com/article/S0959-8049(23)00681-0/fulltext
+
+
+### perturbation
+
+The LINCS L1000 project has collected gene expression profiles for thousands of perturbagens at a variety of time points, doses, and cell lines. A full list of the chemical and genetic perturbations used can be found on the CLUE website along with their descriptions. https://lincsproject.org/LINCS/tools/workflows/find-the-best-place-to-obtain-the-lincs-l1000-data
+
 
 ### image data
 
