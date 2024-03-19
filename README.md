@@ -21,6 +21,10 @@ There are a lot of published papers with a lot of data and mining data can make 
 
 recount methylation: https://bioconductor.org/packages/release/bioc/vignettes/recountmethylation/inst/doc/recountmethylation_users_guide.html
 
+### RNAseq
+* [A deep profile of gene expression across 18 human cancers](https://www.biorxiv.org/content/10.1101/2024.03.17.585426v1) 50K cancer samples from GEO.
+  https://github.com/suinleelab/deepprofile-study (code), and https://doi.org/10.6084/m9.figshare.25414765.v2 (data). 
+  
 ### CCLE 
 
 * [Quantitative Proteomics of the Cancer Cell Line Encyclopedia](https://www.cell.com/cell/fulltext/S0092-8674(19)31385-6)
