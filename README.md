@@ -108,6 +108,11 @@ UCSC xena https://xena.ucsc.edu/
 * [A single-cell atlas of chromatin accessibility in the human genome](https://www.cell.com/cell/fulltext/S0092-8674(21)01279-4) from Bing Ren group.
 * [The Tabula Sapiens: a multiple organ single cell transcriptomic atlas of humans](https://www.biorxiv.org/content/10.1101/2021.07.19.452956v2) We used single cell transcriptomics to create a molecularly defined phenotypic reference of human cell types which spans 24 human tissues and organs." The authors also systematically analyzed splicing differences at the single-cell resolution. For interactive visulization: https://tabula-sapiens-portal.ds.czbiohub.org/splicing
 
+### TCR/BCR
+
+* [A blueprint for tumor-infiltrating B cells across human cancers](https://www.science.org/doi/10.1126/science.adj4857) tumor-infiltrating B cells across 21 different cancer types from more than 270 patients
+* [Spatial transcriptomics of B cell and T cell receptors reveals lymphocyte clonal dynamics](https://www.science.org/doi/abs/10.1126/science.adf8486)
+  
 ### ADC
 
 * [The target atlas for antibody-drug conjugates across solid cancers](https://www.nature.com/articles/s41417-023-00701-3)
