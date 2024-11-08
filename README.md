@@ -16,6 +16,7 @@ There are a lot of published papers with a lot of data and mining data can make 
 * [Pan-cancer proteogenomics characterization of tumor immunity](https://www.cell.com/cell/fulltext/S0092-8674(24)00064-3)
 * [Pan-cancer proteomic map of 949 human cell lines](https://www.sciencedirect.com/science/article/pii/S1535610822002744) download https://cellmodelpassports.sanger.ac.uk/
 * [Quantitative Proteomics of the Cancer Cell Line Encyclopedia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7339254/)
+* Pan-cancer proteogenomics expands the landscape of therapeutic targets - PubMed https://pubmed.ncbi.nlm.nih.gov/38917788/
 
 ### methylation 
 
