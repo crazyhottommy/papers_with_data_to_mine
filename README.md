@@ -17,6 +17,7 @@ There are a lot of published papers with a lot of data and mining data can make 
 * [Pan-cancer proteomic map of 949 human cell lines](https://www.sciencedirect.com/science/article/pii/S1535610822002744) download https://cellmodelpassports.sanger.ac.uk/
 * [Quantitative Proteomics of the Cancer Cell Line Encyclopedia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7339254/)
 * Pan-cancer proteogenomics expands the landscape of therapeutic targets - PubMed https://pubmed.ncbi.nlm.nih.gov/38917788/
+* [Atlas of the plasma proteome in health and disease in 53,026 adults](https://www.cell.com/cell/fulltext/S0092-8674(24)01268-6)
 
 ### methylation 
 
