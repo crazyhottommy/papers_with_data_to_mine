@@ -25,7 +25,8 @@ recount methylation: https://bioconductor.org/packages/release/bioc/vignettes/re
 
 ### RNAseq
 * [A deep profile of gene expression across 18 human cancers](https://www.biorxiv.org/content/10.1101/2024.03.17.585426v1) 50K cancer samples from GEO.
-  https://github.com/suinleelab/deepprofile-study (code), and https://doi.org/10.6084/m9.figshare.25414765.v2 (data). 
+  https://github.com/suinleelab/deepprofile-study (code), and https://doi.org/10.6084/m9.figshare.25414765.v2 (data).
+* [Deep profiling of gene expression across 18 human cancers](https://www.nature.com/articles/s41551-024-01290-8) Here we describe an unsupervised deep-learning framework for the generation of low-dimensional latent spaces for gene-expression data from 50,211 transcriptomes across 18 human cancers. 
   
 ### CCLE 
 
