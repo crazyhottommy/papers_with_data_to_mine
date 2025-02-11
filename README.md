@@ -95,6 +95,7 @@ UCSC xena https://xena.ucsc.edu/
 
 ### single cell
 
+* [A pan-cancer atlas of T cell targets](https://www.biorxiv.org/content/10.1101/2025.01.22.634237v1)
 * [Single-Cell Transcriptome Atlas of Murine Endothelial Cells](https://www.cell.com/cell/pdf/S0092-8674(20)30062-3.pdf)
 * [A cell atlas of human thymic development defines T cell repertoire formation](https://science.sciencemag.org/content/367/6480/eaay3224)
 * [Chromatin accessibility dynamics in a model of human forebrain development](https://science.sciencemag.org/content/367/6476/eaay1645) Trevino et al. avoided this problem by developing three-dimensional organoid models of human forebrain development and examining chromatin accessibility and gene expression at the single-cell level.
